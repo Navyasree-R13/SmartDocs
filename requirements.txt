@@ -1,0 +1,6 @@
+streamlit
+boto3
+pypdf
+transformers
+torch
+sentencepiece
